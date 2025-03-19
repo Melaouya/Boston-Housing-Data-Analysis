@@ -1,4 +1,4 @@
-# Boston-Housing-Data-Analysis
+# USA-Housing-Data-Analysis
 
 ## Introduction
 
